@@ -1,0 +1,6 @@
+c:\users\miner\documents\visual studio 2012\Projects\Index_VS_Bruteforce\Index_VS_Bruteforce\bin\Debug\Index_VS_Bruteforce.exe.config
+c:\users\miner\documents\visual studio 2012\Projects\Index_VS_Bruteforce\Index_VS_Bruteforce\bin\Debug\Index_VS_Bruteforce.exe
+c:\users\miner\documents\visual studio 2012\Projects\Index_VS_Bruteforce\Index_VS_Bruteforce\bin\Debug\Index_VS_Bruteforce.pdb
+c:\users\miner\documents\visual studio 2012\Projects\Index_VS_Bruteforce\Index_VS_Bruteforce\obj\Debug\Index_VS_Bruteforce.csprojResolveAssemblyReference.cache
+c:\users\miner\documents\visual studio 2012\Projects\Index_VS_Bruteforce\Index_VS_Bruteforce\obj\Debug\Index_VS_Bruteforce.exe
+c:\users\miner\documents\visual studio 2012\Projects\Index_VS_Bruteforce\Index_VS_Bruteforce\obj\Debug\Index_VS_Bruteforce.pdb
